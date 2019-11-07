@@ -1,0 +1,133 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.block-1{
+  margin: 0px;
+  padding: 0px;
+  background-color: #A9A9A9;
+  height: 150px;
+}
+.header{
+  margin: 0px;
+  padding: 0px;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: normal;
+  line-height: 150px;
+  margin-left: 200px;
+}
+.block-2{
+  background-color: #ffd5a9;
+  height: 550px;
+}
+.folder{
+  margin: 0px;
+  padding: 0px;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: normal;
+  line-height: 550px;
+  margin-left: 200px;
+}
+.block-3{
+  margin: auto;
+  background-color: #ffb19c;
+  height: 1000px;
+  width: 920px;
+}
+.tut_1{
+  margin: 0px;
+  padding: 0px;
+  font-size: 25px;
+  font-family: Arial;
+  text-align: center;
+  font-weight: normal;
+  line-height: 50px;
+}
+.block-4{
+  margin-top: 10px;
+  background-color: #00e6b8;
+  height: 200px;
+}
+.tut_2{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: normal;
+  line-height: 200px;
+}
+.block-6{
+  margin-top: 50px;
+  background-color: #66a3ff;
+  height: 350px;
+  width: 360px;
+  float: left;
+}
+.image{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: normal;
+  line-height: 350px;
+}
+.block-7{
+  margin-top: 50px;
+  background-color: #66a3ff;
+  height: 350px;
+  width: 500px;
+  float: right;
+  margin-right: 30px;
+}
+.desc{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: normal;
+  line-height: 350px;
+}
+.tut_3{
+  margin: 0px;
+  padding: 0px;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: normal;
+  text-align: center;
+  line-height: 80px;
+}
+.block-8{
+  margin: 0px;
+  background-color: #ffbf80;
+  height: 200px;
+}
+.tut_4{
+  margin: 0px;
+  padding: 0px;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: normal;
+  text-align: center;
+  line-height: 200px;
+}
+.block-9{
+  margin: 0px;
+  padding: 0px;
+  background-color: #404040;
+  height: 400px;
+}
+.footer{
+  margin: 0px;
+  padding: 0px;
+  font-size: 25px;
+  font-family: Arial;
+  font-weight: normal;
+  text-align: center;
+  line-height: 350px;
+  color: #ffffff;
+}
